@@ -1,6 +1,9 @@
 # hello-world
 first repository
 test 
+
+# Chuck is in the house!!!
+=======
 #Q1
 math_pass = {'Tom','John','Mary','Jimmy','Sunny','Amy'}
 eng_pass = {'John','Mary','Tony','Bob','Pony','Tom','Alice'}
@@ -20,7 +23,6 @@ print(epmnp)
 #數學 英文都及格
 mpep = math_pass & eng_pass
 print(mpep)
-
 
 
 #Q2
@@ -49,3 +51,4 @@ J3 = John_list[3]
 J = J0 + J1 + J2 + J3
 John_average = J/4
 print(John_average)
+
