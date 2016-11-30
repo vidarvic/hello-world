@@ -1,7 +1,6 @@
 # hello-world
 first repository
 test 
-<<<<<<< HEAD
 
 # Chuck is in the house!!!
 =======
@@ -24,7 +23,6 @@ print(epmnp)
 #數學 英文都及格
 mpep = math_pass & eng_pass
 print(mpep)
-
 
 
 #Q2
@@ -53,4 +51,4 @@ J3 = John_list[3]
 J = J0 + J1 + J2 + J3
 John_average = J/4
 print(John_average)
->>>>>>> refs/remotes/vidarvic/master
+
